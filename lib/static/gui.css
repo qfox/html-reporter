@@ -154,3 +154,11 @@
 .tab-switcher {
     margin-bottom: 0;
 }
+/*
+.button_sideblock {
+    background: url('./arrows-inside.svg');
+}
+
+.button_sideblock:before {
+    content: '',
+} */
